@@ -1,0 +1,21 @@
+{"intents":[
+
+    {"tag":"greetings",
+    "patterns":["hello","hey", "hi", "good day", "what up"],
+    "responses": ["Hello!", "Hey!", "What can I do for you today?"]
+    },
+
+    {"tag":"goodbye",
+        "patterns":["bye","see you later", "Im gone"],
+        "responses": ["Bye, have a wonderful day", "Catch you on the flip", "Laters"]
+    } ,
+    
+    {"tag":"name",
+        "patterns":["what is your name ","whats your name", "name ", "who are you"],
+        "responses": ["My name is AI Ricky", "I am AI ricky", "Call me AI ricky"]
+
+    }
+
+   
+]}
+
